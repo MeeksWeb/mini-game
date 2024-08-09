@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timegame/static/css/main.7cd0989d.css",
+    "main.js": "/timegame/static/js/main.033f8e10.js",
+    "index.html": "/timegame/index.html",
+    "main.7cd0989d.css.map": "/timegame/static/css/main.7cd0989d.css.map",
+    "main.033f8e10.js.map": "/timegame/static/js/main.033f8e10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd0989d.css",
+    "static/js/main.033f8e10.js"
+  ]
+}
